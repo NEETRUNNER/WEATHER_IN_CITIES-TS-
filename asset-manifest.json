@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WEATHER_IN_CITIES-TS/static/css/main.760e403a.css",
+    "main.js": "/WEATHER_IN_CITIES-TS/static/js/main.5311bd26.js",
+    "static/media/storm.png": "/WEATHER_IN_CITIES-TS/static/media/storm.34ba1304792a31b7d163.png",
+    "static/media/card_rain.png": "/WEATHER_IN_CITIES-TS/static/media/card_rain.53fe1fda4312b5d375f0.png",
+    "static/media/card_sunny.png": "/WEATHER_IN_CITIES-TS/static/media/card_sunny.1bfeaaec56c03cd6f902.png",
+    "static/media/card_clear.png": "/WEATHER_IN_CITIES-TS/static/media/card_clear.39c00a0b8b214d7c09b9.png",
+    "static/media/card_cloudy.png": "/WEATHER_IN_CITIES-TS/static/media/card_cloudy.73e3a1ff792bb9df67db.png",
+    "static/media/clearSky.png": "/WEATHER_IN_CITIES-TS/static/media/clearSky.0756fd770f55ea454fd7.png",
+    "static/media/cloudy.png": "/WEATHER_IN_CITIES-TS/static/media/cloudy.f009e441a604361a2783.png",
+    "static/media/rain.png": "/WEATHER_IN_CITIES-TS/static/media/rain.a19c7f6db64dc7f90a56.png",
+    "static/media/sunny.png": "/WEATHER_IN_CITIES-TS/static/media/sunny.a6d0b7d87d2022baaf47.png",
+    "index.html": "/WEATHER_IN_CITIES-TS/index.html",
+    "main.760e403a.css.map": "/WEATHER_IN_CITIES-TS/static/css/main.760e403a.css.map",
+    "main.5311bd26.js.map": "/WEATHER_IN_CITIES-TS/static/js/main.5311bd26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.760e403a.css",
+    "static/js/main.5311bd26.js"
+  ]
+}
